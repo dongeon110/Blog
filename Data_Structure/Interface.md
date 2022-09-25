@@ -30,8 +30,37 @@ public final class Integer extends Number implements Comparable<Integer> {
 // 다른 메서드는 생략
 }
 ```
-이 클래스는 Number클래스를 확장합니다.
+이 클래스는 Number클래스를 확장합니다.  
 
+### List interface
+JCF(Java Collection Framework)는 List라는 interface를 정의하고 ArrayList와 LinkedList라는 두 구현 클래스를 제공합니다.  
+
+interface는 List가 된다는 의미가 무엇인지를 정의합니다.  
+이 interface를 구현하는 클래스는 add, get, remove 등 약 20가지 메서드를 포함한 특정 메서드 집합을 제공해야합니다.  
+
+ArrayList와 LinkedList 클래스는 이러한 메서드를 제공하므로 상호교환할 수 있습니다.  
+List로 동작하는 메서드는 ArrayList와 LinkedList 또는 List를 구현하는 어떤 객체와도 잘 동작합니다.  
+
+다음은 이러한 내용을 보여주는 예제 코드 입니다.  
+```java
+public class ListClientExample {
+    private List list;
+
+    public ListClientExample() {
+        list = new LinkedList();
+    }
+
+    private List getList() {
+        return list;
+    }
+
+    public static void main(String[] args) {
+        ListClientExample lce = new ListClientExample();
+        List list = lce.getList();
+        System.out.println(list);
+    }
+}
+```
 
 
 
