@@ -30,3 +30,14 @@ Implement 큰단위 구현
 Prevent 특정 동작 제한  
 Move  
 Remove  
+
+
+
+
+<!--
+삭제 플래그
+FK vs JOIN
+
+
+
+-->
