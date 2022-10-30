@@ -21,12 +21,12 @@ https://blog.aaronroh.org/123?category=807722
 
 
 \+ Commit message 알아보기 쉽게  
-Feat   
+Feat 초안  
 Add 추가  
 Fix 고침 ex typo in comment / Fix error when using my function  
 Update 가능 -> 가능 고침  
-Simplify  
-Refactor  
+Simplify 간소화  
+Refactor 리팩토링   
 Implement 큰단위 구현  
 Prevent 특정 동작 제한  
 Move  
