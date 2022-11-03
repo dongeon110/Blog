@@ -1,5 +1,5 @@
 # Blog  
-
+Computer Systems: A Programmer's Perspective(번역본: 컴퓨터시스템) 과 Designing Data-Intensive Applications(번역본: 데이터 중심 애플리케이션 설계).  
 ## 공부할 것 (Spring 이후)   
 Docker, Linux  
 [Computer Science](https://github.com/minnsane/TeachYourselfCS-KR#%EB%B6%84%EC%82%B0%EC%8B%9C%EC%8A%A4%ED%85%9C)
