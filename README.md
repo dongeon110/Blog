@@ -12,6 +12,9 @@ Nodejs, Redis
 - JPA + PostgreSQL GIS  
 https://blog.aaronroh.org/123?category=807722  
 
+- Spring Interceptor 또는 Servlet Filter에서 데이터 처리  
+https://meetup.toast.com/posts/44
+
 ## Simple  
 - Branch protection policy (before merging)   
 [Link](https://kotlinworld.com/292)
