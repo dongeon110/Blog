@@ -17,5 +17,14 @@ alert(id);
 ```
 
 
-<!-- LoginController gpki관련 코드 전부 주석 처리 후 테스트.
- C:/data1/에 키 집어넣음 -->
+<!--
+
+
+LoginController gpki관련 코드 전부 주석 처리 후 테스트.
+ C:/data1/에 키 집어넣음
+
+
+- 주소록 에러 추정?
+cannot create transaction exception
+ 
+ -->
