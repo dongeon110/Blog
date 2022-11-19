@@ -28,3 +28,5 @@ LoginController gpki관련 코드 전부 주석 처리 후 테스트.
 cannot create transaction exception
  
  -->
+
+- javascript 함수 리턴
