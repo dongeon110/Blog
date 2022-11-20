@@ -30,3 +30,6 @@ cannot create transaction exception
  -->
 
 - javascript 함수 리턴
+
+- 여러 js파일에서 전역변수 다루기
+https://wikidocs.net/160284
