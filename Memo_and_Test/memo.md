@@ -33,3 +33,6 @@ cannot create transaction exception
 
 - 여러 js파일에서 전역변수 다루기
 https://wikidocs.net/160284
+
+
+
