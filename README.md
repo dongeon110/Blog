@@ -24,17 +24,7 @@ https://meetup.toast.com/posts/44
 [Link](https://blog.aaronroh.org/142)
 
 
-\+ Commit message 알아보기 쉽게  
-Feat 초안  
-Add 추가  
-Fix 고침 ex typo in comment / Fix error when using my function  
-Update 가능 -> 가능 고침  
-Simplify 간소화  
-Refactor 리팩토링   
-Implement 큰단위 구현  
-Prevent 특정 동작 제한  
-Move  
-Remove  
+\+ Commit message 알아보기 쉽게 커밋 컨벤션  
 
 
 ## 시간내서 읽을 블로그  
