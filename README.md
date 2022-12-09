@@ -47,6 +47,5 @@ JS / CS /
 Jenkins !!!
 -->
 <!--
-Validation Query 수정 하기!
 원격배포 정리 필요
 -->
