@@ -47,5 +47,6 @@ JS / CS /
 Jenkins !!!
 -->
 <!--
-원격배포 정리 필요
+원격배포 정리 필요  
+https://goddaehee.tistory.com/259  젠킨스 원격 서버 배포  
 -->
