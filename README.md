@@ -31,11 +31,6 @@ https://meetup.toast.com/posts/44
 https://pronist.dev/143  
 
 
-COMMIT TEST
-
-
-
-
 <!--
 삭제 플래그
 FK vs JOIN
