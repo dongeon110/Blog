@@ -1,6 +1,6 @@
 # WebSocket  
 
-## Error log  
+## WebSocket Error log  
 
 - fail: Error in connection establish: net::ERR_SSL_PROTOCOL_ERROR  
     보안 확인
