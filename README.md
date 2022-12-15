@@ -47,3 +47,4 @@ https://goddaehee.tistory.com/259  젠킨스 원격 서버 배포
 -->
 
 ## 진행  
+WorkNote Repo 정리
