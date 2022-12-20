@@ -49,3 +49,6 @@ https://ko.wikipedia.org/wiki/TCP/UDP%EC%9D%98_%ED%8F%AC%ED%8A%B8_%EB%AA%A9%EB%A
 
 
 21/tcp 포트 : FTP 파일 전송 프로토콜 제어 포트
+
+
+
