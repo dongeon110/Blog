@@ -51,5 +51,7 @@ https://goddaehee.tistory.com/259  젠킨스 원격 서버 배포
 GIS 지도  
 -->
 
+LifeCycle Exception  
+
 ## 진행  
 22.11.16 ~ ing : WorkNote Repo  
