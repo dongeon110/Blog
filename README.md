@@ -51,7 +51,8 @@ https://goddaehee.tistory.com/259  젠킨스 원격 서버 배포
 GIS 지도  
 -->
 
-폴리곤 -> 점
+폴리곤 -> 점  
+<!-- 노마드 코더 JS 지도 -->
 
 ## 진행  
 22.11.16 ~ ing : WorkNote Repo  
