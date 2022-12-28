@@ -30,6 +30,17 @@ https://meetup.toast.com/posts/44
 ## 시간내서 읽을 블로그  
 https://pronist.dev/143  
 
+## 프록시 서버 설정  
+<!-- httpd/conf.d bac -->
+```conf
+<VirtualHost *:80>
+  ProxyRequests Off
+  ProxyPreserveHost On
+  <Location />
+    ProxyPass http://1.89
+    ProxyPassReverse http://1.89
+  </Location>
+```
 
 <!--
 삭제 플래그
