@@ -61,6 +61,8 @@ Jenkins !!!
 https://goddaehee.tistory.com/259  젠킨스 원격 서버 배포  
 GIS 지도  
 repo정리  
+
+우선순위 정리할것
 -->
 
 폴리곤 -> 점  
