@@ -19,10 +19,11 @@ https://meetup.toast.com/posts/44
 - Branch protection policy (before merging)   
 [Link](https://kotlinworld.com/292)
 
+<!--
 ## 정리할 것
 - Git merge시 충돌 났을 때 강제로 하지 않고 merge하기  
 [Link](https://blog.aaronroh.org/142)
-
+-->
 
 \+ Commit message 알아보기 쉽게 커밋 컨벤션  
 
