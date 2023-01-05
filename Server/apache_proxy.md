@@ -65,4 +65,15 @@ ProxyPass 는 서버가 적절한 문서를 가져오도록 설정하며, ProxyP
 - Reverse Proxy  
 다른 서버에 있는 문서를 서버의 URL 공간으로 가져옴  
 웹 서버가 원격 서버에서 문서를 가져와서 클라이언트에게 전달하는 프록시 서버와 같이 동작하기 떄문에 Reverse Proxy 라고 함  
-클라이언트 입장에서 역프록시 서버가 문서를 보내주는 것처럼 보이므로 일반 프록시와는 다름  
+클라이언트 입장에서 역프록시 서버가 문서를 보내주는 것처럼 보이므로 일반 프록시와는 다름
+  
+- - -
+- Content Type 문제 
+```conf
+RewriteCond %{HTTP:Upgrade} !=websocket [NC]
+RewriteRule /(.*) http://localhost:9999/$1 [P,L]
+```
+해당 부분은 Upgrade 가 websocket이 아닐 때 RewriteRule 이 적용됨.  
+이때 해당부분에서 api 등이 png나 원래 타입이 되어야 하는데  
+`text/html;charset=utf-8`으로 rewrite 되는 문제가 발생함  
+따라서 해당 부분 제거 후 진행 함  
