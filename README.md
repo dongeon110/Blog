@@ -14,8 +14,10 @@
 
 
 # CronTab  
-<!-- https://hdhdeveloper.tistory.com/107 -->
-
+<!-- 
+https://hdhdeveloper.tistory.com/107 -->
+정해진 시간 마다  
+https://blog.naver.com/PostList.naver?blogId=changbab&categoryNo=9&from=postList
 
 <!--
 # Connection Pool 끊김 문제
