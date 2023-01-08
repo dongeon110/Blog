@@ -4,19 +4,6 @@
 - [websocket](./websocket)
 
 
-## 프록시 서버 설정  
-<!-- httpd/conf.d bac -->
-```conf
-<VirtualHost *:80>
-  ProxyRequests Off
-  ProxyPreserveHost On
-  <Location />
-    ProxyPass http://1.89
-    ProxyPassReverse http://1.89
-  </Location>
-```
-
-
 # CronTab  
 <!-- 
 https://hdhdeveloper.tistory.com/107 -->
