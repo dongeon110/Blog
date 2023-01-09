@@ -1,10 +1,19 @@
 # Crontab  
 - [Crontab](#crontab)
+  - [Cron, Crontab](#cron-crontab)
   - [Tomcat 검사 로직](#tomcat-검사-로직)
   - [CronTab 사용방법](#crontab-사용방법)
   - [CronTab 사용 2](#crontab-사용-2)
+  - [추가 자료](#추가-자료)
 
 - - - 
+## Cron, Crontab
+1. Cron
+  유닉스/리눅스 계열에서 특정시간에 특정 작업을 하는 데몬
+2. Crontab
+  이 Cron이 언제 무슨 일을 하도록 설정해 특정 파일에 저장하는 Crontab
+  Cron이라는 데몬이 원하는 시간에 원하는 명령을 수행하도록 만든 명령 리스트
+
 ## Tomcat 검사 로직 
 [톰캣 검사 로직 출처](https://hdhdeveloper.tistory.com/107) 
 > vi tomcatStatus.sh
@@ -94,3 +103,8 @@ vi /etc/crontab
 - - - 
 ## CronTab 사용 2  
 [CronTab 사용 2 출처](https://jdm.kr/blog/2)  
+
+
+
+## 추가 자료  
+[상세 자료](https://happist.com/553442/%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C-%EC%9E%90%EB%8F%99-%EC%8B%A4%ED%96%89%EC%9D%84-%EA%B0%80%EB%8A%A5%EC%BC%80-%ED%95%B4%EC%A3%BC%EB%8A%94-crontab%ED%81%AC%EB%A1%A0%ED%83%AD-%EC%84%A4%EC%A0%95)
