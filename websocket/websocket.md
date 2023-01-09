@@ -23,7 +23,7 @@ import org.springframework.web.socket.TextMessage;
 import org.springframework.web.socket.WebSocketSession;
 import org.springframework.web.socket.handler.TextWebSocketHandler;
 
-public class wsHandler extends TextWebSocketHandler {
+public class WsHandler extends TextWebSocketHandler {
     // 세션 연결 중인 유저들을 모아둔 map
     private Map<String, WebSocketSession> users = new HashMap<>();
     
