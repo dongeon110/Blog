@@ -17,3 +17,8 @@
 - :truck: : Move/Rename resource
 - :pencil2: : Fix typos
 - :see_no_evil: : Add/Update .gitignore
+- :sparkles: : new Feature
+- :wrench: : Add/Update configuration files
+- :hammer: : Add/Update development scripts
+- :bug: : Fix a bug
+- :rocket: : Deploy stuff
