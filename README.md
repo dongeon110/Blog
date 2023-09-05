@@ -14,6 +14,6 @@
 - :bulb: : Add comments or new idea
 - :recycle: : Refactoring
 - :twisted_rightwards_arrows: : Merge branches
-- :move: : Move/Rename resource
+- :truck: : Move/Rename resource
 - :pencil2: : Fix typos
 - :see_no_evil: : Add/Update .gitignore
