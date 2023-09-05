@@ -27,7 +27,7 @@ Enum에 대해 알게된지 제법 지났고, 기본적인 내용들은 쉽게 �
 - toString은 overriding 가능
 - name 은 overriding 불가능
 
-## 한번 써보기
+## [예시](./EnumExample.java)
 
 # 참조
 https://eatnows.tistory.com/91
