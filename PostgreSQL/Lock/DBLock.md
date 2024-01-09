@@ -9,6 +9,7 @@
     - [2.3. Lock 위치 확인](#23-lock-위치-확인)
     - [2.4. 다른 Lock 확인](#24-다른-lock-확인)
     - [2.5. 원인 쿼리 확인하기](#25-원인-쿼리-확인하기)
+  - [참조](#참조)
 
 - - -
 # PostgreSQL DB Lock
@@ -181,3 +182,7 @@ WHERE pid = 233
 - 날리던 쿼리를 확인하고 이상 없을 거같으면 kill 하던지 rollback 하던지 commit하던지 하자.
 
 - psql 에 있던 쿼리를 죽였더니 대기하고 있던 테이블 수정 쿼리가 바로 적용 되었다.
+
+
+## 참조
+- PostgreSQL Lock 공식문서: https://www.postgresql.org/docs/current/explicit-locking.html
