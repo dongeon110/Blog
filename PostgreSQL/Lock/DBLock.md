@@ -29,9 +29,9 @@ CREATE TABLE test_table (
 - 각각 다른 곳에서 접속했다는 가정 하에, 알아보기 쉽게 구분해서 보자.
   - psql: 문제 발생! 락을 발생 시킨 곳!  
 ![shell](./img/shell.png)
-  - DBeaver: DB 상태를 확인하는 쿼리를 날려 볼 곳.
+  - DBeaver: DB 상태를 확인하는 쿼리를 날려 볼 곳.  
 ![dbeaver](./img/dbeaver.png)
-  - Intellij: 락과 충돌이 나는 쿼리를 날려볼 곳.
+  - Intellij: 락과 충돌이 나는 쿼리를 날려볼 곳.  
 ![Intellij](./img/Intellij.png)
 
 
