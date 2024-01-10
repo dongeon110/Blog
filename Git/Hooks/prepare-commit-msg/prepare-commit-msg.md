@@ -15,6 +15,7 @@ SHA1=$3
 - 내 커밋 컨벤션을 적용시키자.
   - 내용은 어렵지 않지만 복붙하고 싶다.
 ```bash
+#!/bin/sh
 COMMIT_MSG_FILE=$1
 COMMIT_SOURCE=$2
 SHA1=$3
