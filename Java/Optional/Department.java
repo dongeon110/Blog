@@ -20,7 +20,7 @@ public class Department {
      * 회사를 반환한다.
      * @return 회사
      */
-    public Optional<Company> maybeCompany() {
+    public Optional<Company> findCompany() {
         return Optional.ofNullable(company);
     }
 }

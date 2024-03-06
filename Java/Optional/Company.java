@@ -18,7 +18,7 @@ public class Company {
      * 회사명을 반환한다
      * @return 회사명
      */
-    public Optional<String> maybeName() {
+    public Optional<String> findName() {
         return Optional.ofNullable(name);
     }
 }
