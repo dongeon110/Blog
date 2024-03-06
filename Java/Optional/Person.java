@@ -10,8 +10,8 @@ import java.util.Optional;
 @Getter
 @Setter
 public class Person {
-    private String name;
-    private Department department;
+    private String name; // 사람 이름
+    private Department department; // 소속부서
     
     /**
      * 예시 메서드 1. - Optional을 반환하는 방법
