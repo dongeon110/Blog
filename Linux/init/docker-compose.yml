@@ -1,0 +1,7 @@
+services:
+  httpd:
+    build:
+      dockerfile: ./dockerfile-httpd
+    restart: always
+    ports:
+      - "80:80"
